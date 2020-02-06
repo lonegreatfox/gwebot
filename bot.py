@@ -49,4 +49,4 @@ async def creation_time(ctx, user: discord.User):
 
 token = os.environ.get('BOT_TOKEN')
 
-bot.run(str(token))
+Bot.run(str(token))
