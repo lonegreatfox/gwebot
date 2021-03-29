@@ -22,7 +22,7 @@ pip-tools==4.4.1
 prompt-toolkit==3.0.2
 pycodestyle==2.5.0
 pyflakes==2.1.1
-Pygments==2.5.2
+Pygments==2.7.4
 requests==2.22.0
 six==1.13.0
 traitlets==4.3.3
